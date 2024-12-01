@@ -74,3 +74,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Thank You!
 
 Thank you for reading!
+
+
+## Medium
+[Building a State Management Wrapper for Android Using Koin, and Jetpack Compose in 2024](https://wookoo.medium.com/building-a-state-management-wrapper-for-android-using-koin-and-jetpack-compose-4cad098ca892).
+
